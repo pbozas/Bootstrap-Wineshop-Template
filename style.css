@@ -1,0 +1,51 @@
+.bg-custom{
+    background-color: crimson;
+    border-bottom: 3px solid orangered;
+    color: white;
+}
+
+.bgheader{
+    background-image: url("img/wineSlide.jpg")
+    
+}
+.headerImageFont{
+    color: lightgray;
+}
+
+.myBox img{
+    max-height: 225px;
+    display: block;
+    margin: 0 auto;
+}
+.myBox h4{
+   text-align: center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+#map{
+    width:100%;
+    filter: grayscale(100%);
+}
+
+.no-radius{
+ border-radius:0!important;
+}
+
+
+.spinner-border.text-dark {
+    width: 3em;
+    height: 3em;
+    display: block;
+    margin: 25% auto;
+}
+
+img#check{
+    display: block;
+    margin: 15% auto;
+}
+
